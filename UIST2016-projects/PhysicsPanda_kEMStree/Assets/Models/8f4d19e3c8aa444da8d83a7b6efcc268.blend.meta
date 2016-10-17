@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 2d458c36e1c3448c595a0b89e6c46ccc
+timeCreated: 1476083336
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boo
+    100004: Bricks
+    100006: Castle
+    100008: Character1
+    100010: Character2
+    100012: Clouds
+    100014: Ctrl_Camera_360
+    100016: End_flag
+    100018: Flower
+    100020: Flower_001
+    100022: Flower_002
+    100024: Flower_003
+    100026: Island_Base
+    100028: Island_Green
+    100030: Mistery_Brick
+    100032: plant
+    100034: plant2
+    100036: plant3
+    100038: plant4
+    100040: plant5
+    100042: Star
+    100044: Tube
+    400000: //RootNode
+    400002: Boo
+    400004: Bricks
+    400006: Castle
+    400008: Character1
+    400010: Character2
+    400012: Clouds
+    400014: Ctrl_Camera_360
+    400016: End_flag
+    400018: Flower
+    400020: Flower_001
+    400022: Flower_002
+    400024: Flower_003
+    400026: Island_Base
+    400028: Island_Green
+    400030: Mistery_Brick
+    400032: plant
+    400034: plant2
+    400036: plant3
+    400038: plant4
+    400040: plant5
+    400042: Star
+    400044: Tube
+    2300000: Boo
+    2300002: Bricks
+    2300004: Castle
+    2300006: Character1
+    2300008: Character2
+    2300010: Clouds
+    2300012: End_flag
+    2300014: Flower
+    2300016: Flower_001
+    2300018: Flower_002
+    2300020: Flower_003
+    2300022: Island_Base
+    2300024: Island_Green
+    2300026: Mistery_Brick
+    2300028: plant
+    2300030: plant2
+    2300032: plant3
+    2300034: plant4
+    2300036: plant5
+    2300038: Star
+    2300040: Tube
+    3300000: Boo
+    3300002: Bricks
+    3300004: Castle
+    3300006: Character1
+    3300008: Character2
+    3300010: Clouds
+    3300012: End_flag
+    3300014: Flower
+    3300016: Flower_001
+    3300018: Flower_002
+    3300020: Flower_003
+    3300022: Island_Base
+    3300024: Island_Green
+    3300026: Mistery_Brick
+    3300028: plant
+    3300030: plant2
+    3300032: plant3
+    3300034: plant4
+    3300036: plant5
+    3300038: Star
+    3300040: Tube
+    4300000: Boo
+    4300002: Star
+    4300004: Bricks
+    4300006: Clouds
+    4300008: Mistery_Brick
+    4300010: plant5
+    4300012: plant4
+    4300014: plant3
+    4300016: plant2
+    4300018: plant
+    4300020: Flower_003
+    4300022: Flower_002
+    4300024: Flower_001
+    4300026: Flower
+    4300028: Castle
+    4300030: End_flag
+    4300032: Character2
+    4300034: Character1
+    4300036: Tube
+    4300038: Island_Green
+    4300040: Island_Base
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
